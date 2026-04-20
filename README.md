@@ -1,4 +1,4 @@
-🌿 Fatimun Nisha — Personal Portfolio
+🌿 Fatimun Nisha — Insight-Hub
 
 Data Analyst & Machine Learning Engineer · Odisha, India
 Live at:https://nishafatimuninsighthub.netlify.app/
