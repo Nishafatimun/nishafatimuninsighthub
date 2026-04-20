@@ -1,7 +1,7 @@
 🌿 Fatimun Nisha — Personal Portfolio
 
 Data Analyst & Machine Learning Engineer · Odisha, India
-Live at: https://github.com/Nishafatimun/nishafatimunportfolio/tree/main
+Live at:https://nishafatimuninsighthub.netlify.app/
 
 
 ## 👩‍💻 About This Project
