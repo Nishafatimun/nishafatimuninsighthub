@@ -12,7 +12,7 @@ This is my personal portfolio website built with pure **HTML, CSS, and JavaScrip
 
 ## 🚀 Live Demo
 
-🔗 https://nishafatimunportfolio.netlify.app
+🔗https://nishafatimuninsighthub.netlify.app/
 
 ---
 
